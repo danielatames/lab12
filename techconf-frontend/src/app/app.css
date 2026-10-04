@@ -1,0 +1,11 @@
+.topbar {
+  background: linear-gradient(135deg, #ec4899, #be185d);
+  color: #fff;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  box-shadow: 0 4px 14px rgba(190, 24, 93, .35);
+}
+.topbar h1 { margin: 0; font-size: 1.6rem; }
+.topbar span { opacity: .9; }
